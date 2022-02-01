@@ -22,7 +22,7 @@ def main():
     l = [1, 2, 3, 4]
     s = "Hello world"
 
-    print(find_index("r", s))
+    print(find_second_index("l", s))
 
 
 if __name__ == '__main__':
